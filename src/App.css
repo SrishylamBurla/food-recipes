@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  
+}
+
+.item{
+  margin: 4px 0;
+}
+.row{
+  margin: 10px;
+  align-items: first baseline;
+}
